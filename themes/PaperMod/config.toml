@@ -2,10 +2,6 @@
 enabled = true
 title = "The Noobing Blog"
 subtitle = "with NoobScience"
-imageUrl = "noobscience.png"
-imageTitle = "NoobScience"
-imageWidth = 120
-imageHeight = 120
 
 [[params.profileMode.buttons]]
 name = "Archive"
