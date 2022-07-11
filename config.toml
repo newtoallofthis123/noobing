@@ -8,3 +8,5 @@ enableEmoji = "true"
   GitHubUser = 'newtoallofthis123'
   SidebarRecentLimit = 5
   Subtitle = 'Exploring The Web'
+  [outputs]
+	home = [ "HTML", "RSS", "JSON" ]
